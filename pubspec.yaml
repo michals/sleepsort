@@ -1,0 +1,9 @@
+name: sleepsort
+version: 0.0.1
+description: SleepSort dart implementation
+author: Michał Šrajer <michal@post.pl>
+homepage: http://stackoverflow.com/users/705676/
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dev_dependencies:
+  unittest: any
