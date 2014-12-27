@@ -1,5 +1,5 @@
 name: sleepsort
-version: 0.0.1
+version: 0.0.2
 description: SleepSort dart implementation
 author: Michał Šrajer <michal@post.pl>
 homepage: https://github.com/michals/sleepsort
